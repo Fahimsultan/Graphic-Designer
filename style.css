@@ -1,0 +1,176 @@
+body{margin: 0;
+padding: 0;
+}
+
+.a{/*border: 2px solid black;*/
+	height: 1200px;
+	width: 45%;
+	float: left;
+	margin-left: 2%;
+}
+
+.b{/*border: 2px solid red;*/
+height: 1200px;
+width: 52%;
+float: right;
+margin-right: : 2%;
+}
+
+.surname{
+/*	border: 2px solid green;*/
+	height: 290px;
+	width: 97%;
+}
+
+.profile{
+	/*border: 2px solid green;*/
+	height: 290px;
+	width: 97%;
+}
+
+.contact{
+	/*border: 2px solid green;*/
+	height: 290px;
+	width: 97%;
+}
+.skills{
+/*	border: 2px solid green;*/
+	height: 290px;
+	width: 97%;
+}
+
+
+
+.education{
+	/*border: 2px solid green;*/
+	height: 390px;
+	width: 97%;
+}
+
+.experience{
+	/*border: 2px solid green;*/
+	height: 390px;
+	width: 97%;
+}
+
+.software{
+	/*border: 2px solid green;*/
+	height: 390px;
+	width: 97%;
+}
+
+.i{text-align: center;
+margin-top: 2%;}
+
+.i h1{margin-top: 1%;
+font-weight: normal;
+font-size: 30px;}
+
+.i h2{margin-top: -3%;
+font-weight: bold;
+font-size: 30px;
+}
+
+.i h3{margin-top: -3%;
+font-weight: normal;
+font-size: 15px;}
+
+.profile h4{margin-top: -8%;
+font-weight: bold;
+font-size: 30px;
+margin-left: 14%;
+color: rgb(10,176,206);}
+
+#dp{margin-left: 3%;
+margin-top:1%;}
+
+.profile h5{font-size: 15px;
+font-family: sans-serif;
+font-weight: normal;}
+
+.contact h1{margin-top: -8%;
+font-weight: bold;
+font-size: 30px;
+margin-left: 14%;
+color: rgb(10,176,206);}
+
+.contact h2{/*margin-top: -8%;*/
+font-weight: bold;
+font-size: 20px;
+margin-left: 2%;
+color: rgb(10,176,206);}
+
+.contact h3{margin-top:-32%;
+font-weight: normal;
+font-size: 20px;
+margin-left:22%;
+
+color: black;}
+
+#cn{margin-left: 3%;
+margin-top:1%;}
+
+.skills h1{margin-top: -8%;
+font-weight: bold;
+font-size: 30px;
+margin-left: 14%;
+color: rgb(10,176,206);}
+
+.skills h2{/*margin-top:-32%;*/
+font-weight: bold;
+font-size: 20px;
+margin-left:22%;}
+
+#sk{margin-left: 3%;
+margin-top:1%;}
+
+.education h1{margin-top: -8%;
+font-weight: bold;
+font-size: 30px;
+margin-left: 14%;
+color: rgb(10,176,206);}
+
+.education ul{margin-top:-1%;
+font-weight: bold;
+font-size: 13px;
+margin-left:2%;}
+
+#ed{margin-left: 3%;
+margin-top:1%;}
+
+#t{color:rgb(10,176,206);}
+#t p{ color: black; }
+
+.experience h1{margin-top: -8%;
+font-weight: bold;
+font-size: 30px;
+margin-left: 14%;
+color: rgb(10,176,206);}
+
+.experience ul{margin-top:-2%;
+font-weight: bold;
+font-size: 13px;
+margin-left:2%;}
+
+#ex{margin-left: 3%;
+margin-top:1%;}
+
+.software h1{margin-top: -8%;
+font-weight: bold;
+font-size: 30px;
+margin-left: 14%;
+color: rgb(10,176,206);}
+
+#so{margin-left: 3%;
+margin-top:4%;}
+
+.software h2{margin-top: 8%;
+font-weight: bold;
+font-size: 20px;
+margin-left: 10%;
+}
+
+.software h3{margin-top:-21%;
+font-weight: bold;
+font-size: 20px;
+margin-left:39%;
